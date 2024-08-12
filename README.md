@@ -27,11 +27,6 @@ python gen.py
 cd elssl
 python train.py
 ```
-3. Test the model
-```
-cd elssl
-python test.py
-```
 
 ## Acknowledgement
 
