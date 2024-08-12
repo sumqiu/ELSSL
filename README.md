@@ -25,7 +25,6 @@ python gen.py
 3. Train segmentation model
 ```
 cd elssl
-python pre_train.py
 python train.py
 ```
 3. Test the model
